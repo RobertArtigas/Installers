@@ -1,4 +1,4 @@
-# Installers
+# Software Installers
 
 This are the installers for all the **Roberto Artigas y Soler** public available MIT softare packages in one convenient location.
 
@@ -17,7 +17,7 @@ If you have a previous release of Clarion and want to change the screens, you ar
 You got all this software for free, you have documentation, so in most cases, there is no addtional support.
 If you find errors, let me know, the software will get fixed, as the schedule and time allows.
 
-## Installers Available
+## Software Installers Available
 
 * [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) - [Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) - Dictionary to SQL DLL generator (Templates) [ Convert ISAM -> SQL ]
 * [RYB](https://github.com/RobertArtigas/RYB) - [Wiki](https://github.com/RobertArtigas/RYB/wiki) - Run Your Business (Templates) [ Production Day-to-Day ]
