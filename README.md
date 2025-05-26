@@ -19,6 +19,6 @@ If you find errors, let me know, the software will get fixed, as the schedule an
 
 ## Installers Available
 
-* **[DCT2SQL](https://github.com/RobertArtigas/DCT2SQL)** - Dictionary to SQL DLL generator
-* **RYB** -
+* [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) - Dictionary to SQL DLL generator
+* [RYB](https://github.com/RobertArtigas/RYB) -
 * 
