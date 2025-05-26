@@ -22,7 +22,7 @@ There is also and e-mail you can contact me with. It is published in the templat
 
 If you find errors, let me know, the software will get fixed, as the schedule and time allows.
 Most of the time, this is the production software that is used when I do changes for myself or my clients.
-If it is not being currently used, it will have changes for fixes made when there is a quiet moment to make the changes.
+If it is not being currently used, it will have changes or fixes made when there is a quiet moment to make the changes.
 
 ## Software Installers Available
 
