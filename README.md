@@ -12,17 +12,17 @@ For the Clarion **template** only packages, the Clarion templates provided will 
 
 The additional screen space provided in Clarion version 10 is used for displaying the template.
 The templates will probably work correctly on previous releases of Clarion. It is just the template screens will look a bit different on previous releases. 
-If you have a previous release of Clarion and want to change the template screens, you are wellcome to make the changes to the templates yourself.
+If you have a previous release of Clarion and want to change the template screens, you are welcome to make the changes to the templates yourself.
 
 **You got all this software for free, you have documentation, so in most cases, there is no addtional support.**
 
 Some of these packages have been around for years. A few have been around for one or more decades. There are Clarion groups on Discord. You can ask questions there.
 I am available on those groups. Chances there if I am heads down working on something, you will get an answer there from someone or at a latter time I will get to it.
-There is also and e-mail you can contact me with. It is published in most of the templates.
+There is also and e-mail you can contact me with. It is published in the templates.
 
 If you find errors, let me know, the software will get fixed, as the schedule and time allows.
 Most of the time, this is the production software that is used when I do changes for myself or my clients.
-If it is not being currently used, it will have changes made when there is a quiet moment to make the changes.
+If it is not being currently used, it will have changes for fixes made when there is a quiet moment to make the changes.
 
 ## Software Installers Available
 
