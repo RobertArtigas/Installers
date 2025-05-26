@@ -11,8 +11,8 @@ The only consideration for the individual Clarion packages is if you have the co
 For the Clarion **template** only packages, the Clarion templates provided will run best on Clarion version 10 or later. 
 
 The additional screen space provided in Clarion version 10 is used for displaying the template.
-The templates will probably work correctly on previous releases of Clarion, just the screen will look a bit different on those releases. 
-If you have a previous release of Clarion and want to change the screens, you are wellcome to make the changes to the templates yourself.
+The templates will probably work correctly on previous releases of Clarion, just the template screens will look a bit different on those releases. 
+If you have a previous release of Clarion and want to change the template screens, you are wellcome to make the changes to the templates yourself.
 
 You got all this software for free, you have documentation, so in most cases, there is no addtional support.
 If you find errors, let me know, the software will get fixed, as the schedule and time allows.
