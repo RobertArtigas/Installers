@@ -18,7 +18,7 @@ If you have a previous release of Clarion and want to change the template screen
 
 Some of these packages have been around for years. A few have been around for one or more decades. There are Clarion groups on Discord. You can ask questions there.
 I am available on those groups. Chances there if I am heads down working on something, you will get an answer there from someone or at a latter time I will get to it.
-There is also and e-mail you can contact me with. It is published in the templates.
+There is also an e-mail you can contact me with. It is published in the templates.
 
 If you find errors, let me know, the software will get fixed, as the schedule and time allows.
 Most of the time, this is the production software that is used when I do changes for myself or my clients.
