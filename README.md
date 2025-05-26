@@ -3,8 +3,9 @@
 This are the installers for all the **Roberto Artigas y Soler** public available MIT softare packages in one convenient location.
 
 Gives you the chance to download just one GitHub repository, install what you choose and try it out.
+
 After that you can go to the specific GitHub repository and install the additional source materials and compile all the specific programs.
-But each installed is self contained and normally you will not have to do anything else.
+Each installer is self contained and normally you will not have to do anything else.
 
 The only consideration for the individual Clarion packages is if you have the correct Clarion version to use the templates or run the compiler.
 For the Clarion only packages, the Clarion templates provided will run best on Clarion version 10 or later. 
