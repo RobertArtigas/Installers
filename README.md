@@ -7,7 +7,7 @@ Gives you the chance to download just **one** GitHub repository, install what yo
 After that you can go to the specific GitHub repository and install the additional source materials and compile all the specific programs.
 Each installer is self contained and normally you will not have to do anything else.
 
-The only consideration for the individual Clarion packages is if you as a developer have the correct Clarion version in your environment to use the templates or run the compiler.
+The only consideration for the individual Clarion packages is if as a developer have the correct Clarion version in your environment to use the templates or run the compiler.
 For the Clarion **template** only packages, the Clarion templates provided will run best on Clarion version 10 or later. 
 
 The additional screen space provided in Clarion version 10 is used for displaying the template.
