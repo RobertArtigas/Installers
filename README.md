@@ -22,7 +22,7 @@ There is also an e-mail you can contact me with. It is published in the template
 
 If you find errors, let me know, the software will get fixed, as the schedule and time allows.
 **Most of the time, this is the production software that is used when I do changes for myself or my clients.**
-If it is not currently being used, it will have changes or fixes made when there is a quiet moment to make the changes.
+If it is not currently being used, it will have changes or fixes made when there is a quiet moment to make those changes.
 
 ## Package Installers Available
 
