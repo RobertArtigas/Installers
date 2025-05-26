@@ -36,7 +36,7 @@ If it is not currently being used, it will have changes or fixes made when there
 ###
 
 [Code](https://github.com/RobertArtigas/Installers) 
-[Wiki](https://github.com/RobertArtigas/Installers/wiki) 
+<!-- [Wiki](https://github.com/RobertArtigas/Installers/wiki) -->
 [Main](https://github.com/RobertArtigas) 
 [Repositories](https://github.com/RobertArtigas?tab=repositories)
 
