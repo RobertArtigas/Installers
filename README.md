@@ -16,6 +16,8 @@ If you have a previous release of Clarion and want to change the template screen
 
 You got all this software for free, you have documentation, so in most cases, there is no addtional support.
 If you find errors, let me know, the software will get fixed, as the schedule and time allows.
+Most of the time, this is the production software that is used when I do changes for myself or my clients.
+If it is not being currently used, it will have changes made when there is a quiet moment to make the changes.
 
 ## Software Installers Available
 
