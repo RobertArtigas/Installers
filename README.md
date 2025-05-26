@@ -8,7 +8,7 @@ After that you can go to the specific GitHub repository and install the addition
 Each installer is self contained and normally you will not have to do anything else.
 
 The consideration for the individual Clarion packages, is that you have the correct **Clarion version** in your environment to use the templates or run the compiler.
-For the Clarion **template** only packages, the Clarion templates provided will run best on Clarion version 10 or later. 
+For the **Clarion template only** packages, the Clarion templates provided will run best on Clarion version 10 or later. 
 
 The additional screen space provided in Clarion version 10 is used for displaying the template.
 The templates will probably work correctly on previous releases of Clarion. It is just the template screens will look a bit different on previous releases. 
