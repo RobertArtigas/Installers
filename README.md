@@ -1,4 +1,4 @@
-# Software Installers
+# Package Installers
 
 These are the installers for all the **Roberto Artigas y Soler** public available MIT softare packages in one convenient location.
 
@@ -24,7 +24,7 @@ If you find errors, let me know, the software will get fixed, as the schedule an
 **Most of the time, this is the production software that is used when I do changes for myself or my clients.**
 If it is not currently being used, it will have changes or fixes made when there is a quiet moment to make the changes.
 
-## Software Installers Available
+## Package Installers Available
 
 * [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) - [Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) - Dictionary to SQL DLL generator (Templates) [ Convert ISAM -> SQL ]
 * [RYB](https://github.com/RobertArtigas/RYB) - [Wiki](https://github.com/RobertArtigas/RYB/wiki) - Run Your Business (Templates) [ Production Day-to-Day ]
