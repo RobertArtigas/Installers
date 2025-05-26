@@ -31,3 +31,20 @@ If it is not currently being used, it will have changes or fixes made when there
 * [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) - [Wiki](https://github.com/RobertArtigas/RYBEQUATES/wiki) - Equates Generator (Templates) _**Languages:**_ Clarion. _**Data:**_ CSV.
   * [BUSINESS](https://github.com/RobertArtigas/RYBEQUATES/wiki/The-BUSINESS-Equates) - _**Languages:**_ Clarion, CSharp, Python, TypeScript, JavaScript. _**Data:**_ CSV, XML, JSON.
 * 
+
+##
+###
+
+[Code](https://github.com/RobertArtigas/Installers) 
+[Wiki](https://github.com/RobertArtigas/Installers/wiki) 
+[Main](https://github.com/RobertArtigas) 
+[Repositories](https://github.com/RobertArtigas?tab=repositories)
+
+##
+
+**Fact** is information minus emotion;<br/>
+**Opinion** is information plus experience;<br/>
+**Ignorance** is an opinion lacking information;<br/> 
+**Stupidity** is an opinion that ignores fact.
+
+##
