@@ -26,6 +26,6 @@ If it is not currently being used, it will have changes or fixes made when there
 
 ## Package Installers Available
 
-* [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) - [Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) - Dictionary to SQL DLL generator (Templates) [ Convert ISAM -> SQL ]
-* [RYB](https://github.com/RobertArtigas/RYB) - [Wiki](https://github.com/RobertArtigas/RYB/wiki) - Run Your Business (Templates) [ Production Day-to-Day ]
-* [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) - [Wiki](https://github.com/RobertArtigas/RYBEQUATES/wiki) - Equates Generator (Template) [ Languages: Clarion, CSharp, Python, TypeScript, JavaScript. Data: CSV, XML, JSON ]
+* [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) - [Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) - Dictionary to SQL DLL generator (Templates) Convert ISAM -> SQL
+* [RYB](https://github.com/RobertArtigas/RYB) - [Wiki](https://github.com/RobertArtigas/RYB/wiki) - Run Your Business (Templates) Production Day-to-Day
+* [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) - [Wiki](https://github.com/RobertArtigas/RYBEQUATES/wiki) - Equates Generator (Templates) **Languages:** Clarion, CSharp, Python, TypeScript, JavaScript. **Data:** CSV, XML, JSON_ 
