@@ -1,7 +1,6 @@
 # Package Installers
 
 These are the installers for all the **Roberto Artigas y Soler** public available MIT softare packages in one convenient location.
-
 Gives you the chance to download just **one** GitHub repository, install what you choose and try it out.
 
 After that you can go to the specific GitHub repository and install the additional source materials and compile all the specific programs.
