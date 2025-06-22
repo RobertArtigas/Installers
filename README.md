@@ -29,7 +29,7 @@ If it is not currently being used, it will have changes or fixes made when there
 * [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) - [Wiki](https://github.com/RobertArtigas/RYBEQUATES/wiki) - Equates Generator (Templates) _**Languages:**_ Clarion. _**Data:**_ CSV.
   * [BUSINESS](https://github.com/RobertArtigas/RYBEQUATES/wiki/The-BUSINESS-Equates) - _**Languages:**_ Clarion, CSharp, Python, TypeScript, JavaScript. _**Data:**_ CSV, XML, JSON.
 * [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) - [Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) - Dictionary to SQL DLL generator (Templates) Convert ISAM -> SQL
-* [DUMPLOAD](https://github.com/RobertArtigas/DumpLoad) - [Wiki](https://github.com/RobertArtigas/DumpLoad/wiki) - Dump and Load (Templates) Backup adn restore ISAM <-> CSV (Still has users)
+* [DUMPLOAD](https://github.com/RobertArtigas/DumpLoad) - [Wiki](https://github.com/RobertArtigas/DumpLoad/wiki) - Dump and Load (Templates) Backup and restore ISAM <-> CSV (CSV->SQL)
 *
 
 ##
