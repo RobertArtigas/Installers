@@ -25,7 +25,8 @@ If it is not currently being used, it will have changes or fixes made when there
 
 ## Other Installers
 
-There are a few installers from 
+There are a few installers from other sources. There are handy to have here to facilitate download and install.
+The links will point to the original sources or the current maintainers of the specific software.
 
 ## Package Installers Available
 
