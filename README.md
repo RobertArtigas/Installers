@@ -23,6 +23,10 @@ If you find errors, let me know, the software will get fixed, as the schedule an
 **Most of the time, this is the production software that is used when I do changes for myself or my clients.**
 If it is not currently being used, it will have changes or fixes made when there is a quiet moment to make those changes.
 
+## Other Installers
+
+There are a few installers from 
+
 ## Package Installers Available
 
 * [RYB](https://github.com/RobertArtigas/RYB) - [Wiki](https://github.com/RobertArtigas/RYB/wiki) - Run Your Business (Templates) Production Day-to-Day
@@ -31,6 +35,7 @@ If it is not currently being used, it will have changes or fixes made when there
 * [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) - [Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) - Dictionary to SQL DLL generator (Templates) Convert ISAM -> SQL
 * [DUMPLOAD](https://github.com/RobertArtigas/DumpLoad) - [Wiki](https://github.com/RobertArtigas/DumpLoad/wiki) - Dump and Load (Templates) Backup and restore ISAM <-> CSV (Load CSV into SQL)
 * [XMLDOC](https://github.com/RobertArtigas/XMLDOC) - [Wiki](https://github.com/RobertArtigas/XMLDOC/wiki) - Create XML dump from the Dictionary and Application template internal structure.
+###
 * [KSSOpen](https://github.com/mriffey/KSSOpen/tree/master) - [Installer](https://github.com/mriffey/KSSOpen/releases) - Mark Riffey's KSS Open hand coded version
 
 ##
