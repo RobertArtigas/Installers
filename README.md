@@ -31,7 +31,7 @@ The links will point to the original sources or the current maintainers of the s
 ## Package Installers Available
 
 * [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) - [Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) - Dictionary to SQL DLL generator (Templates) Convert ISAM -> SQL
-  * [DCT Audits](https://github.com/RobertArtigas/DCT2SQL/wiki/Templates#sql-pre-conversion) - Utility templates to check and verify your dictionaries   
+  * [DCT checks](https://github.com/RobertArtigas/DCT2SQL/wiki/Templates#sql-pre-conversion) - Utility templates to check and verify your dictionaries   
 * [RYB](https://github.com/RobertArtigas/RYB) - [Wiki](https://github.com/RobertArtigas/RYB/wiki) - Run Your Business (Templates) Production Day-to-Day
 * [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) - [Wiki](https://github.com/RobertArtigas/RYBEQUATES/wiki) - Equates Generator (Templates) _**Languages:**_ Clarion. _**Data:**_ CSV.
   * [BUSINESS](https://github.com/RobertArtigas/RYBEQUATES/wiki/The-BUSINESS-Equates) - _**Languages:**_ Clarion, CSharp, Python, TypeScript, JavaScript. _**Data:**_ CSV, XML, JSON.
