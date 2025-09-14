@@ -38,7 +38,7 @@ The links will point to the original sources or the current maintainers of the s
 * [DUMPLOAD](https://github.com/RobertArtigas/DumpLoad) - [Wiki](https://github.com/RobertArtigas/DumpLoad/wiki) - Dump and Load (Templates) Backup and restore ISAM <-> CSV (Load CSV into SQL)
 * [XMLDOC](https://github.com/RobertArtigas/XMLDOC) - [Wiki](https://github.com/RobertArtigas/XMLDOC/wiki) - Create XML dump from the Dictionary and Application template internal structure.
 ###
-* [KSSOpen](https://github.com/mriffey/KSSOpen/tree/master) - [Installer](https://github.com/mriffey/KSSOpen/releases) - Mark Riffey's KSS Open hand coded version
+* [KSSOpen](https://github.com/mriffey/KSSOpen/tree/master) - [Installer](https://github.com/mriffey/KSSOpen/releases) - Mark Riffey's KSS Open hand coded version (most up to date)
 
 ##
 
