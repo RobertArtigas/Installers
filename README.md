@@ -43,6 +43,14 @@ The links will point to the original sources or the current maintainers of the s
 * [Devuna ClassViewer](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/ClassViewer) - Devuna's Class Viewer Application version
 
 ##
+###
+
+[Code](https://github.com/RobertArtigas/Installers) 
+[Main](https://github.com/RobertArtigas) 
+[Repositories](https://github.com/RobertArtigas?tab=repositories)
+
+##
+##
 
 Agent Smith: **Why do you persist?**<br/>
 Neo: **Because I choose to.**<br/>
@@ -54,15 +62,6 @@ _The Matrix_<br/>
 **Opinion** is information plus experience;<br/>
 **Ignorance** is an opinion lacking information;<br/> 
 **Stupidity** is an opinion that ignores fact.
-
-##
-###
-
-[Code](https://github.com/RobertArtigas/Installers) 
-[Main](https://github.com/RobertArtigas) 
-[Repositories](https://github.com/RobertArtigas?tab=repositories)
-
-##
 
 “Fulfillment is a right and not a privilege. Every single one of us is entitled to feel fulfilled by the work we do, to wake up feeling inspired to go to work, to feel safe when we’re there and to return home with a sense that we contributed to something larger than ourselves. Fulfillment is not a lottery. It is not a feeling reserved for a lucky few who get to say, “I love what I do.” For those who hold a leadership position, creating an environment in which the people in your charge feel like they are a part of something bigger than themselves is your responsibility as a leader.”<BR/>
 _-- Simon Sinek_
