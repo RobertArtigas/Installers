@@ -44,9 +44,9 @@ The links will point to the original sources or the current maintainers of the s
 
 ##
 
-Agent Smith: **Why do you persist?**
-Neo: **Becuase I choose to.**
-_The Matrix_
+Agent Smith: **Why do you persist?**<br/>
+Neo: **Becuase I choose to.**<br/>
+_The Matrix_<br/>
 
 ##
 
