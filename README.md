@@ -39,8 +39,8 @@ The links will point to the original sources or the current maintainers of the s
 * [XMLDOC](https://github.com/RobertArtigas/XMLDOC) - [Wiki](https://github.com/RobertArtigas/XMLDOC/wiki) - Create XML dump from the Dictionary and Application template internal structure.
 ###
 * [KSSOpen](https://github.com/mriffey/KSSOpen/tree/master) - [Installer](https://github.com/mriffey/KSSOpen/releases) - Mark Riffey's KSS Open hand coded version (**most up to date**)
-* [Devuna KSSOpen](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/kss) - Devuna's KSS Open Application version
-* [Devuna ClassViewer](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/ClassViewer) - Devuna's Class Viewer Application version
+* [Devuna KSSOpen](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/kss) [Wiki](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki/%5BB%5D-KWIK-Source-Search-(KSS))- Devuna's KSS Open Application version
+* [Devuna ClassViewer](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/ClassViewer) [Wiki](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki#abc-class-viewer-abcview)- Devuna's Class Viewer Application version
 
 ##
 ###
