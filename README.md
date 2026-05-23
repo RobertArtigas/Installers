@@ -41,7 +41,7 @@ The links will point to the original sources or the current maintainers of the s
 ###
 * [KSSOpen](https://github.com/mriffey/KSSOpen/tree/master) - [Installer](https://github.com/mriffey/KSSOpen/releases) - Mark Riffey's KSS Open hand coded version (**most up to date**)
 * [Devuna KSSOpen](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/kss) - [Wiki](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki/%5BB%5D-KWIK-Source-Search-(KSS))- Mark Riffey's KSS Open Application version
-* [Devuna ClassViewer](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/ClassViewer) - [Wiki](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki#abc-class-viewer-abcview)-Robertr Artigas' Class Viewer Application version
+* [Devuna ClassViewer](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/ClassViewer) - [Wiki](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki#abc-class-viewer-abcview)- Roberto Artigas' Class Viewer Application version
 
 ##
 ###
