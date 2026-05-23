@@ -40,7 +40,7 @@ The links will point to the original sources or the current maintainers of the s
 * [UDRA](https://github.com/RobertArtigas/UDRA) - [Wiki](https://github.com/RobertArtigas/UDRA/wiki/%5BC%5D-Dump-Structures) - Debug with data types in structures
 ###
 * [KSSOpen](https://github.com/mriffey/KSSOpen/tree/master) - [Installer](https://github.com/mriffey/KSSOpen/releases) - Mark Riffey's KSS Open hand coded version (**his directory features upgraded**)
-* [Devuna KSSOpen](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/kss) - [Wiki](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki/%5BB%5D-KWIK-Source-Search-(KSS))- Mark Riffey's KSS Open Application version (**installer directory for easy access**)
+* [Devuna KSSOpen](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/kss) - [Wiki](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki/%5BB%5D-KWIK-Source-Search-(KSS))- Mark Riffey's KSS Open Application version (**my installer directory for easy access**)
 * [Devuna ClassViewer](https://github.com/RobertArtigas/DEVUNA__IDE__/tree/main/Application/ClassViewer) - [Wiki](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki#abc-class-viewer-abcview)- Roberto Artigas' Class Viewer Application version (**features upgraded**)
 
 ##
